@@ -1,8 +1,8 @@
 Accessible & SEO-Friendly Web Page
 Overview
 This project is a single HTML5 web page designed to demonstrate modern web development practices, focusing on semantic HTML5 structure, accessibility, and search engine optimization (SEO). The page serves as a showcase for creating user-friendly, inclusive, and discoverable web content using only HTML5, without CSS or JavaScript.
-Features
 
+Features
 Semantic HTML5 Structure: Utilizes semantic elements like <header>, <nav>, <main>, <section>, <article>, <footer>, and <address> to create a well-organized and meaningful page layout.
 Accessibility Enhancements: Incorporates ARIA attributes (e.g., aria-label, aria-labelledby, aria-current) to improve navigation for assistive technologies like screen readers.
 SEO Optimization: Includes metadata (description, keywords, author) and a logical heading hierarchy (<h1>, <h2>, <h3>) to enhance search engine discoverability.
